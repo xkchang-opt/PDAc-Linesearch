@@ -5,3 +5,5 @@ Using convex combination and linesearch techniques, we introduce a novel primal-
 Our numerical experiments on quadratically constrained quadratic programming and sparse logistic regression problems indicate the new algorithm is significantly faster than the comparison algorithms.
 
 Code for QCQP  in Matlab and for SLR in Python.
+
+The solution of QCQP is computed using MOSEK via CVX, downloaded from http://cvxr.com/cvx/
